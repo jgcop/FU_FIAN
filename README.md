@@ -1,2 +1,2 @@
-# FU_FIAN
-Aufgaben und Beispiele
+# php
+Aufgaben und Beispiele für PHP in den entsprechenden Modulen
